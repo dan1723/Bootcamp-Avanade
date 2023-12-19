@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo F. Gomes\\.vscode\\Avanade Bootcamp\\Exemplo2\\Exemplo2.csproj": {}
+    "C:\\Users\\Danilo F. Gomes\\.vscode\\Bootcamp Avanade\\Exemplo2\\Exemplo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo F. Gomes\\.vscode\\Avanade Bootcamp\\Exemplo2\\Exemplo2.csproj": {
+    "C:\\Users\\Danilo F. Gomes\\.vscode\\Bootcamp Avanade\\Exemplo2\\Exemplo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo F. Gomes\\.vscode\\Avanade Bootcamp\\Exemplo2\\Exemplo2.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo F. Gomes\\.vscode\\Bootcamp Avanade\\Exemplo2\\Exemplo2.csproj",
         "projectName": "Exemplo2",
-        "projectPath": "C:\\Users\\Danilo F. Gomes\\.vscode\\Avanade Bootcamp\\Exemplo2\\Exemplo2.csproj",
+        "projectPath": "C:\\Users\\Danilo F. Gomes\\.vscode\\Bootcamp Avanade\\Exemplo2\\Exemplo2.csproj",
         "packagesPath": "C:\\Users\\Danilo F. Gomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo F. Gomes\\.vscode\\Avanade Bootcamp\\Exemplo2\\obj\\",
+        "outputPath": "C:\\Users\\Danilo F. Gomes\\.vscode\\Bootcamp Avanade\\Exemplo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danilo F. Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
