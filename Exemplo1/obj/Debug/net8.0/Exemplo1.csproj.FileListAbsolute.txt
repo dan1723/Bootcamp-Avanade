@@ -1,0 +1,14 @@
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\bin\Debug\net8.0\Exemplo1.exe
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\bin\Debug\net8.0\Exemplo1.deps.json
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\bin\Debug\net8.0\Exemplo1.runtimeconfig.json
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\bin\Debug\net8.0\Exemplo1.dll
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\bin\Debug\net8.0\Exemplo1.pdb
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\Exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\Exemplo1.AssemblyInfoInputs.cache
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\Exemplo1.AssemblyInfo.cs
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\Exemplo1.csproj.CoreCompileInputs.cache
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\Exemplo1.dll
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\refint\Exemplo1.dll
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\Exemplo1.pdb
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\Exemplo1.genruntimeconfig.cache
+E:\Danilo\estudos\estágio e bootcamp\Bootcamp Avanade\parte 2\Exemplo1\obj\Debug\net8.0\ref\Exemplo1.dll
