@@ -1,24 +1,67 @@
 ﻿using Exemplo2.Models;
 using System.Globalization;
 
+Queue<int> fila = new Queue<int>();
 
+fila.Enqueue(2);
+fila.Enqueue(4);
+fila.Enqueue(8);
+fila.Enqueue(10);
+ 
+foreach(int item in fila){
+    Console.WriteLine(item);
+}
+
+Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+
+foreach(int item in fila){
+    Console.WriteLine(item);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+//new Exececao().mt1();
+
+
+
+
+
+
+/*string[] linhasex = File.ReadAllLines("Arquivos/pasta1/arquivo_Leitura.txt");
 
 
 try{
 
-    string[] linhas = File.ReadAllLines("Arquivos/arquivo_Leitura.txt");
+    string[] linhas = File.ReadAllLines("Arquivos/barquivoLeitura.txt");
 
     foreach(string linha in linhas){
 
     Console.WriteLine(linha);
     }
 
+} catch (FileNotFoundException ex){
+
+    Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Arquivo não encontrado. {ex.Message}");
+
 } catch (Exception ex){
 
     Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
-}
 
-Console.WriteLine("Chegou até aqui");
+} finally{
+    Console.WriteLine("Chegou até aqui");
+}*/
+
+
 
 
 
