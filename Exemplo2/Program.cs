@@ -1,7 +1,131 @@
 ﻿using Exemplo2.Models;
 using System.Globalization;
 
-Queue<int> fila = new Queue<int>();
+Dictionary<string, string> estados = new Dictionary<string, string>();
+
+estados.Add("SP", "São Paulo");
+estados.Add("BA", "Bahia");
+estados.Add("MG", "Minas Gerais");
+
+/*foreach(var item in estados){
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+Console.WriteLine("----------------------");
+
+estados.Remove("BA");
+estados["SP"] = "São Paulo - valor alterado";
+
+foreach(var item in estados){
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}*/
+
+/*string chave = "BA2";
+
+Console.WriteLine($"Verificando o elemento: {chave}");
+
+if (estados.ContainsKey(chave)){
+    Console.WriteLine($"Valor existente: {chave}");
+} else{
+    Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
+}*/
+
+Console.WriteLine(estados["MG"]);
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Stack<int> pilha = new Stack<int>();
+
+pilha.Push(4);
+pilha.Push(6);
+pilha.Push(8);
+pilha.Push(10);
+
+foreach(int item in pilha){
+    Console.WriteLine(item);
+}
+
+Console.WriteLine($"Removendo o elemento do topo da pilha: {pilha.Pop()}");
+
+pilha.Push(20);
+
+foreach(int item in pilha){
+    Console.WriteLine(item);
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Queue<int> fila = new Queue<int>();
 
 fila.Enqueue(2);
 fila.Enqueue(4);
@@ -13,16 +137,11 @@ foreach(int item in fila){
 }
 
 Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+fila.Enqueue(11);
 
 foreach(int item in fila){
     Console.WriteLine(item);
-}
-
-
-
-
-
-
+}*/
 
 
 
@@ -31,6 +150,10 @@ foreach(int item in fila){
 
 
 //new Exececao().mt1();
+
+
+
+
 
 
 
@@ -60,20 +183,6 @@ try{
 } finally{
     Console.WriteLine("Chegou até aqui");
 }*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
