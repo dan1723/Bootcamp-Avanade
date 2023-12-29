@@ -1,6 +1,10 @@
 ﻿using Exemplo2.Models;
 using System.Globalization;
 using System.Security.Cryptography;
+using Exemplo2.Interfaces;
+
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3, 9));
 
 
 
