@@ -1,7 +1,62 @@
 ﻿using Exemplo2.Models;
 using System.Globalization;
+using System.Security.Cryptography;
 
-Dictionary<string, string> estados = new Dictionary<string, string>();
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Dictionary<string, string> estados = new Dictionary<string, string>();
 
 estados.Add("SP", "São Paulo");
 estados.Add("BA", "Bahia");
@@ -30,7 +85,7 @@ if (estados.ContainsKey(chave)){
     Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
 }*/
 
-Console.WriteLine(estados["MG"]);
+//Console.WriteLine(estados["MG"]);
 
  
 
